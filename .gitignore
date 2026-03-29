@@ -1,0 +1,22 @@
+# ===== CLion / IntelliJ =====
+.idea/
+
+# ===== Build directories =====
+cmake-build-debug/
+cmake-build-release/
+build/
+
+# ===== CMake generated files =====
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== Executables =====
+*.exe
+*.out
+*.o
