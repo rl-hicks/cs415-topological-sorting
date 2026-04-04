@@ -1,0 +1,4 @@
+There are 3 clients in this file
+
+Optimal revenue earned is 220
+Clients contributing to this optimal revenue: 1, 3
